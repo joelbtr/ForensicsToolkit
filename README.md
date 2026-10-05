@@ -7,7 +7,7 @@ A Python toolkit for raw disk image forensics. Three stages: carve, extract, tim
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/forensics-toolkit
+git clone https://github.com/joelbtr/ForensicsToolkit
 cd forensics-toolkit
 pip install -r requirements.txt
 ```
